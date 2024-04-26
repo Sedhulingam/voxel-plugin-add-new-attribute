@@ -1,0 +1,8 @@
+name: "@sedhu/new_attribute"
+description: This plugin allows you to edit the attributes of selected labels in the FiftyOne App.
+version: 1.0.0
+fiftyone:
+  version: "*"
+
+operators:
+  - new_attribute
